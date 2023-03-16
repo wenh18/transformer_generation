@@ -1,0 +1,12 @@
+vit
+https://arxiv.org/abs/2010.11929
+
+swin transformer
+https://arxiv.org/abs/2103.14030
+
+moe
+Mixture-of-Experts with Expert Choice Routing:                 http://arxiv.org/abs/2202.09368
+Scaling Vision-Language Models with Sparse Mixture of Experts: http://arxiv.org/abs/2303.07226
+Task-Specific Expert Pruning for Sparse Mixture-of-Experts:    http://arxiv.org/abs/2206.00277
+
+multimodal (待确认)
