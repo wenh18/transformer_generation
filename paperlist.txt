@@ -1,4 +1,4 @@
-dynamic DNN  
+dynamic DNN  (layer skipping and early exit)
 adavit:                 http://arxiv.org/abs/2111.15668
 adaptive transformer:   http://arxiv.org/abs/1910.10073
 early exit transformer: https://arxiv.org/pdf/2106.15183.pdf  https://arxiv.org/pdf/2105.09121.pdf
